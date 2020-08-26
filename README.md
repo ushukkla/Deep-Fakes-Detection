@@ -15,6 +15,7 @@ Feel free to tweek these parameters further! Note that the total time for each r
 So it may be wise to plan your parameters properly based on the insights gathered from past trainings!
 
 ## Results
+Results are cross entropy loss fr Real and Fake-:
 1. Resnext single model public score: 0.46441
 2. Xception single model public score: 0.50480
 3. Inference Model Score: 0.4306
