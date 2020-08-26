@@ -18,7 +18,9 @@ So it may be wise to plan your parameters properly based on the insights gathere
 1. Resnext single model public score: 0.46441
 2. Xception single model public score: 0.50480
 3. Inference Model Score: 0.4306
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+Following code contains many dependancies, so if you need any contact:ushukla@buffalo.edu
 
 
 
